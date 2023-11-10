@@ -8,3 +8,5 @@ estou fazendo exercicio básico de git e github
 
 * comando git pull 
 
+* comando  git fetch 
+
